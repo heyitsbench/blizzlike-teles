@@ -95,186 +95,186 @@ worldport 530 9487.32, -8042.84, 3.49195, 240.732 -- Azurebreeze
 worldport 0 -857.826, 195.366, 17.2759 -- Azureload
 worldport 530 -4254.41, -13029.3, 0.640537, 87.2478 -- Azuremyst
 worldport 530 -4175.05, -12531, 44.6314, 96.0224 -- Azurewatch
-worldport 0 -6914, -2177, 261
-worldport 0 -6568.49, -3468.38, 304.625
-worldport 1  -1924.18, 305.699, 88.5952
-worldport 1 -4092.17, -2319.27, 126.129, 281.52
-worldport 571 129.007, -5915.6, 6.45012, 26.1095
-worldport 1 -4086.13, -2339.25, 126.13, 202.95
-worldport 571 1507.05, -5319.67, 196.627, 98.3351
-worldport 0 -12524.1, -714.546, 40.1152
-worldport 0 -12019.5, 346.238, 2.19195
-worldport 0 2051.39, -309.61, 37.5911
-worldport 1 10060.9, 1458.39, 1276.69, 351.569
-port 2527.06, -4114.52, 232.199, 178.013
-worldport 0 -4869.15, -871.272, 502.192, 74.3036
-worldport 0 -8779.09, 361.698, 101.069
-worldport 1 -305.603, -1971.14, 90.5319, 76.8146
-worldport 1 -4088.15, -2293.55, 124.235
-worldport 1 909.092, -2733.27, 99.8202, 89.6163
-worldport 1 -29.634, -2616.03, 97.1518, 200.946
-worldport 1 -4562.5, -1868.51, 86.3954, 127.867
-worldport 1 -2369.55, -1883, 95.5886
-worldport 1 300.209, -3672.03, 27.3399
-worldport 1 -2360 -1667 86
-worldport 1 -1678.54, -4329.3, 2.42324, 164.193
-worldport 1 39.633, -2687.09, 113.514, 255.081
-worldport 1 9858.26, 1561.44, 1329.51
-worldport 0 503.648, -234.945, 166.445, 197.73
-worldport 1 6790.27, 33.4777, 22.2255
-worldport 1 6632.74, -65.9648, 29.5573
-worldport 0 -13298.1, -467.963, 16.6577
-worldport 1 3824.77, -148.264, -1.0069
-worldport 0 -14265.5, 347.218, 30.7758
-worldport 1 1741.71741.72, -2586.24, 90.3745, 254.216
-worldport 1 3905.14, -4771.7, 267.179, 110.049
-worldport 1 3978.65, -4773.37, 270.331, 279.339
-worldport 1 -3965.38, -3797.99, 41.4784
-worldport 0 -11053.8, 226.013, 27.3777
-worldport 0 -481.638, 795.715, 93.9619, 63.14
-worldport 0 -4857.84, -1239.97, 501.722, 130.328
-worldport 1 -735.486, 1436.74, 91.1913, 200.076
-worldport 0 -7496.55, -1123.55, 265.454, 217.46
-port -192.194, 2263.92, 90.6423, 144.112
-Worldport 1 4692.27, -6961.8, 115.295, 194.851
-port 867.438, -216.827, -43.7523, 53.2574
-worldport 1 7330.53, -980.817, 6.2997, 278.37
-worldport 0 -7683.62, -1088.97, 218.597, 11.945
-Worldport 0 -7283.76, -793.184, 297.248, 348.745
-port  595.562, -193.088, -54.0977, 266.85
-port -248.856, 34.2735, -55.2836, 171.66
-Worldport 0 -7226.09, -903.381, 165.378, 213.325
-worldport 1 4157.98, 917.852, -17.0596, 77.684
-worldport 1 4120.34, 887.52, 9.70009, 334.229
-worldport 0 -7714.9, -1477.55, 140.817, 56.4273
-worldport 0 579.536, -282.595, -43.1028, 347.445
-worldport 0 -7527.65, -1226.44, 285.732, 306.92
-worldport 1 
-port -819.566, -211.133, -25.9026, 282.135
-port -818.747, -107.808, -25.87, 245.415
-worldport 269 -1617.24, 7106.37, 29.1123, 177.435
-port -376.689, 158.496, -55.5706, 150.24
-worldport 1 4247.72, 744.462, -24.6276, 73.2291
-worldport 1 -150.234, 106.594, -39.7791, 255
-worldport 0 -7815.04, -1133.73, 214.811, 4.87993
-worldport 469 -7497 -1237 475
-worldport 230 460, 20, -71
-worldport 230 460, 20, -71
-Worldport 0 -7339.69, -1085.83, 277.069, 321.576
-worldport 0 -7731.56, -1510.19, 132.835, 256.767
-worldport 229 78.5078, -228.391, 49.6734
-worldport 0 -7716.67, -1481.59, 140.737
-worldport 229 78.5078, -228.391, 49.6734
-port -736.607, 18.4317, -30.3908, 251.13
-worldport 571 4384.29, 1343.9, 148.224, 90.7343
-worldport 1 -296.464, 81.6985, -51.8236, 228.405
-worldport 0 -7770.33, -1128.83, 215.083, 284.6
-worldport 530 -3565.02, 495.064, 25.4942, 270.52
-worldport 564 97.0894, 1001.96, -86.8798, 350.1
-worldport 1 -3630.61, -1782.05, 134.95, 95.5348
-worldport 469 -7669.6, -1105.7, 397.925, 38.0332
-worldport 1 1226.03, -297.986, 3.73505, 192.466
-worldport 1 4607.02, 3.94691, 70.1549
-Worldport 0 2525.4, -4233.91, 74.5108, 67.6124
-worldport 530 1615.42, 6819.69, 135.432, 5.46826
-worldport 1 1288.14, -5013.54, 1.11495
-worldport 530 2087.37, 6404.56, 157.71, 13.6049
-worldport 530 2087.37, 6404.56, 157.71, 13.6049
-worldport 530 1668, 6802, 143
-worldport 530 2389, 6161, 135
-worldport 530 2898, 5570, 153
-worldport 530 3478, 6619, 153
-worldport 530 1985, 4762, 152
-worldport 530 2917.14, 4963.21, 307.903, 270.335
-worldport 530 2788.94, 7162.13, 376.962, 299.226
-worldport 530 1837.83, 7281.1, 376.22, 172.686
-worldport 530 2499.77, 6476.56, 33.657, 89.9812
-worldport 530 3412.41, 4553.02, 193.748, 222.634
-worldport 530 2357.87, 5391.13, 274.839, 326.269
-worldport 530 1385.99, 6543.43, 55.3684, 339.281
-worldport 0 -11573 -3228 8
-worldport 0 -11542.2, -2897.22, 10.3823
-worldport 0 -10905.1, -3180.3, 49.0514, 203.35
-worldport 530 7177.14, -6418.24, 54.4723, 5.59428
-worldport 1 -4337.54, -2620.22, 37.6122
-worldport 1 943.621, 1561.69, -12.8399
-worldport 1 -2318.74, -375.02, -9.40564
-worldport 530 -2782.1, -12209.4, 17.1769, 12.8622
-Worldport 0 -13457.1, 677.216, 9.45847, 125.293
-worldport 1 1753.64, -1495.27, 99.9057, 169.799
-worldport 1 5280.04, -716.736, 345.909
-Worldport 1 5260.45, -564.136, 323.417, 257.368
-worldport 530 -2107.86, -11840.3, 54.6131, 354.671
-worldport 1 -2715.75, -2991.91, 38.8789
-worldport 0 -5290.85, -2945.92, 336.758, 319.59
-worldport 0 -7015.43, -3630.49, 241.677, 204.796
-Worldport 0 -235.566, -2563.57, 118.626, 54.5861
-worldport 1 -2300, 2492.91, 72.3486, 260.145
-worldport 0 -14456.1, 448.853, 20.4093, 314.595
-worldport 0 -14378.6, 369.396, 23.9395, 259.38
-worldport 0 -14411.2, 412.398, 22.7162, 208.665
-worldport 0 -14479, 450.751, 30.6523, 168.84
-worldport 0 -14463.7, 420.197, 25.403, 166.77
-worldport 0 -14400.7, 406.731, 23.0707, 234.585
-worldport 0 -14357.6, 372.217, 24.0959, 258.975
-worldport 0 -14454.8, 451.223, 15.6602, 1.84477
-worldport 0 -14483.2, 469.078, 31.5465, 90.3599
-worldport 0 -14434.3, 390.503, 32.3385, 225.495
-worldport 0 -14457.8, 408.358, 25.2806, 280.53
-worldport 0 -14266.8, 347.675, 31.2286, 114.84
-worldport 0 -14319 450 27
-worldport 0 -14349.6, 416.301, 6.62684, 207.855
-worldport 0 -14438.3, 433.999, 4.19641, 200.745
-worldport 571 3562.23, 4951.41, 53.7024, 183.39
-worldport 571 4025.83, 5328.55, 28.4032, 316.364
-worldport 571 2196.22, 5299.02, 7.74801, 47.1738
-worldport 571 2731.99, 6092.61, 75.1069, 36.4635
-worldport 571 3412.06, 4072.43, 16.9058, 42.0881
-worldport 571 3562.23, 4951.41, 53.7024, 183.39
-worldport 1 1773.78, -4489.72, 45.4206, 69.1045
-worldport 1 3179.31, -3615.9, 129.523
-worldport 0 -1961.61, -2769.12, 77.7511, 58.8154
-worldport 1 -97.2885, 255.747, 99.1038, 72.4046
-worldport 0 -2015.74, -2829.94, 74.7431, 305.82
-worldport 0 -1199.42, -2142.56, 62.9732, 299.362
-worldport 1 1350.97, -3644.48, 92.7527, 118.438
-worldport 1 1268.57, -3622.24, 90.6006, 4.54345
-worldport 1 1355.04, -3545.52, 95.3659, 70.941
-worldport 1 -122.288, 213.756, 97.5171, 61.6496
-worldport 1 1254.37, -3599.26, 112.022, 333.066
-worldport 1 1912.23, -4773.07, 36.3266, 274.664
-worldport 0 -9724.75, -931.106, 38.3168, 193.522
-worldport 1 -3193.3, -2922.7, 33.2404
-worldport 1 -3132.87, -2886.71, 34.6342
-worldport 0 -9724.87, -965.057, 38.8778
-worldport 0 -9805.13, -927.868, 39.8569, 240.412
-worldport 1  -3124.94, -1019.61, 51.068
-worldport 1 -2207.46, -2519.11, 91.6669, 203.149
-port 244.541, 72.6848, 25.7196, 51.425
-worldport 0 -5371 304 395
-worldport 1 -1187.61, 2879.25, 85.8009, 292.455
-worldport 0 2707.8, -13.1061, 32.6477
-worldport 0 -10465.6, -829.89, 51.3365
-worldport 0 2248.74 290.518 35
-worldport 0 2296.64, 280.575, 37.3083
-worldport 530 -3488.06, -12358.9, 16.4663, 3.25635
-worldport 530 -4581.12, -11690.9, 22.4921, 105.676
-worldport 530 -1692.08, 3970.72, 66.5429, 100.334
-Worldport 1 -7806.59, -7980.9, -3957.89, 8.95292, 79.8167
-worldport 1 -1784.46, 3060.89, 12.5221, 43.6503
-worldport 571 3114.13, 67.2918, 80.8071, 180.96
-worldport 1 1689.12, -4411.89, 21.7077
-Worldport 0 2474.01, -5129.86, 76.6223, 290.452
-worldport 0 -4961.7, -1284.03, 501.97, 108.953
-worldport 564 -198.473, 1056.53, -173.69, 359.171
-worldport 0 1718.64, -826.001, 59.0549
-worldport 451 -3758.84, -9057.63, 42.2429, 182.945
-worldport 0 -8564.95 -2563.52 133.149
-worldport 1 2057.75, -4831.05, 24.3508, 257.497
-worldport 1 812.254, -4751.58, 36.497
-worldport 0 -7960 -2525 133
-worldport 0 -7772 -2489 159
-worldport 0 -3197.03 -906.97 106.749
+worldport 0 -6914, -2177, 261 -- Badlands
+worldport 0 -6568.49, -3468.38, 304.625 -- Badlandscrypt
+worldport 1  -1924.18, 305.699, 88.5952 -- bael
+worldport 1 -4092.17, -2319.27, 126.129, 281.52 -- baeldunkeep
+worldport 571 129.007, -5915.6, 6.45012, 26.1095 -- Baelguns
+worldport 1 -4086.13, -2339.25, 126.13, 202.95 -- baelkeep
+worldport 571 1507.05, -5319.67, 196.627, 98.3351 -- Baleheim
+worldport 0 -12524.1, -714.546, 40.1152 -- Baliamah
+worldport 0 -12019.5, 346.238, 2.19195 -- Ballal
+worldport 0 2051.39, -309.61, 37.5911 -- balnir
+worldport 1 10060.9, 1458.39, 1276.69, 351.569 -- banethilhollow
+port 2527.06, -4114.52, 232.199, 178.013 -- barbarianhq
+worldport 0 -4869.15, -871.272, 502.192, 74.3036 -- barim
+worldport 0 -8779.09, 361.698, 101.069 -- Barracks
+worldport 1 -305.603, -1971.14, 90.5319, 76.8146 -- barrenburrow
+worldport 1 -4088.15, -2293.55, 124.235 -- Barrendig
+worldport 1 909.092, -2733.27, 99.8202, 89.6163 -- barrengoblin
+worldport 1 -29.634, -2616.03, 97.1518, 200.946 -- barrenhut
+worldport 1 -4562.5, -1868.51, 86.3954, 127.867 -- barrenlift
+worldport 1 -2369.55, -1883, 95.5886 -- Barrens
+worldport 1 300.209, -3672.03, 27.3399 -- barrens01
+worldport 1 -2360 -1667 86 -- Barrens02
+worldport 1 -1678.54, -4329.3, 2.42324, 164.193 -- BarrensWarrior
+worldport 1 39.633, -2687.09, 113.514, 255.081 -- barrentower
+worldport 1 9858.26, 1561.44, 1329.51 -- barrow
+worldport 0 503.648, -234.945, 166.445, 197.73 -- barwar
+worldport 1 6790.27, 33.4777, 22.2255 -- bashal
+worldport 1 6632.74, -65.9648, 29.5573 -- Bashalaran
+worldport 0 -13298.1, -467.963, 16.6577 -- Basiliskcave
+worldport 1 3824.77, -148.264, -1.0069 -- bathranshaunt
+worldport 0 -14265.5, 347.218, 30.7758 -- BBtunnel
+worldport 1 1741.71741.72, -2586.24, 90.3745, 254.216 -- bear
+worldport 1 3905.14, -4771.7, 267.179, 110.049 -- bearshead
+worldport 1 3978.65, -4773.37, 270.331, 279.339 -- beartower
+worldport 1 -3965.38, -3797.99, 41.4784 -- Beezil
+worldport 0 -11053.8, 226.013, 27.3777 -- Beggar
+worldport 0 -481.638, 795.715, 93.9619, 63.14 -- beren
+worldport 0 -4857.84, -1239.97, 501.722, 130.328 -- berryfizz
+worldport 1 -735.486, 1436.74, 91.1913, 200.076 -- bibblyhut
+worldport 0 -7496.55, -1123.55, 265.454, 217.46 -- bigass
+port -192.194, 2263.92, 90.6423, 144.112 -- bighall
+Worldport 1 4692.27, -6961.8, 115.295, 194.851 -- bitterreaches
+port 867.438, -216.827, -43.7523, 53.2574 -- blackbar
+worldport 1 7330.53, -980.817, 6.2997, 278.37 -- blackcave
+worldport 0 -7683.62, -1088.97, 218.597, 11.945 -- blackchamber
+Worldport 0 -7283.76, -793.184, 297.248, 348.745 -- blackcharcave
+port  595.562, -193.088, -54.0977, 266.85 -- blackcoliseum
+port -248.856, 34.2735, -55.2836, 171.66 -- blackdrown
+Worldport 0 -7226.09, -903.381, 165.378, 213.325 -- blackdwarf
+worldport 1 4157.98, 917.852, -17.0596, 77.684 -- blackentrance
+worldport 1 4120.34, 887.52, 9.70009, 334.229 -- Blackfathom
+worldport 0 -7714.9, -1477.55, 140.817, 56.4273 -- blackfortress
+worldport 0 579.536, -282.595, -43.1028, 347.445 -- blackheros
+worldport 0 -7527.65, -1226.44, 285.732, 306.92 -- blackinstance
+worldport 1 -- blackinterior
+port -819.566, -211.133, -25.9026, 282.135 -- blacklair
+port -818.747, -107.808, -25.87, 245.415 -- blackmoon
+worldport 269 -1617.24, 7106.37, 29.1123, 177.435 -- BlackMorass
+port -376.689, 158.496, -55.5706, 150.24 -- blackpool
+worldport 1 4247.72, 744.462, -24.6276, 73.2291 -- blackportal
+worldport 1 -150.234, 106.594, -39.7791, 255 -- blackportal1
+worldport 0 -7815.04, -1133.73, 214.811, 4.87993 -- blackrock
+worldport 469 -7497 -1237 475 -- BlackrockBalcony01
+worldport 230 460, 20, -71 -- blackrockdepths
+worldport 230 460, 20, -71 -- blackrocklower
+Worldport 0 -7339.69, -1085.83, 277.069, 321.576 -- blackrockmountain
+worldport 0 -7731.56, -1510.19, 132.835, 256.767 -- Blackrockmtn
+worldport 229 78.5078, -228.391, 49.6734 -- Blackrockspire
+worldport 0 -7716.67, -1481.59, 140.737 -- Blackrockstronghold
+worldport 229 78.5078, -228.391, 49.6734 -- blackrockupper
+port -736.607, 18.4317, -30.3908, 251.13 -- blackruins
+worldport 571 4384.29, 1343.9, 148.224, 90.7343 -- blackshrine
+worldport 1 -296.464, 81.6985, -51.8236, 228.405 -- blacksnap
+worldport 0 -7770.33, -1128.83, 215.083, 284.6 -- blackspire
+worldport 530 -3565.02, 495.064, 25.4942, 270.52 -- blacktemple
+worldport 564 97.0894, 1001.96, -86.8798, 350.1 -- BlackTempleInstance
+worldport 1 -3630.61, -1782.05, 134.95, 95.5348 -- blackthorn
+worldport 469 -7669.6, -1105.7, 397.925, 38.0332 -- blackwing
+worldport 1 1226.03, -297.986, 3.73505, 192.466 -- Blackwolf
+worldport 1 4607.02, 3.94691, 70.1549 -- Blackwoodden
+Worldport 0 2525.4, -4233.91, 74.5108, 67.6124 -- blackwoodlake
+worldport 530 1615.42, 6819.69, 135.432, 5.46826 -- Blade
+worldport 1 1288.14, -5013.54, 1.11495 -- Bladefist
+worldport 530 2087.37, 6404.56, 157.71, 13.6049 -- Blades
+worldport 530 2087.37, 6404.56, 157.71, 13.6049 -- BladesEdge
+worldport 530 1668, 6802, 143 -- BladesForest1
+worldport 530 2389, 6161, 135 -- BladesForest2
+worldport 530 2898, 5570, 153 -- BladesForest3
+worldport 530 3478, 6619, 153 -- BladesForest4
+worldport 530 1985, 4762, 152 -- BladesForest5
+worldport 530 2917.14, 4963.21, 307.903, 270.335 -- BladesForgeCamp1
+worldport 530 2788.94, 7162.13, 376.962, 299.226 -- BladesForgeCamp2
+worldport 530 1837.83, 7281.1, 376.22, 172.686 -- BladesForgeCamp3
+worldport 530 2499.77, 6476.56, 33.657, 89.9812 -- BladespireHold
+worldport 530 3412.41, 4553.02, 193.748, 222.634 -- BladestoNether
+worldport 530 2357.87, 5391.13, 274.839, 326.269 -- BladesTopRight
+worldport 530 1385.99, 6543.43, 55.3684, 339.281 -- BladesTrench
+worldport 0 -11573 -3228 8 -- Blasted
+worldport 0 -11542.2, -2897.22, 10.3823 -- Blastedcave
+worldport 0 -10905.1, -3180.3, 49.0514, 203.35 -- blastedgarrison
+worldport 530 7177.14, -6418.24, 54.4723, 5.59428 -- BleedingZiggurat
+worldport 1 -4337.54, -2620.22, 37.6122 -- Bloodfen
+worldport 1 943.621, 1561.69, -12.8399 -- bloodfuries
+worldport 1 -2318.74, -375.02, -9.40564 -- bloodhoof
+worldport 530 -2782.1, -12209.4, 17.1769, 12.8622 -- Bloodmyst
+Worldport 0 -13457.1, 677.216, 9.45847, 125.293 -- bloodsailcompound
+worldport 1 1753.64, -1495.27, 99.9057, 169.799 -- bloodtooth
+worldport 1 5280.04, -716.736, 345.909 -- BloodVenom
+Worldport 1 5260.45, -564.136, 323.417, 257.368 -- bloodvenomriver
+worldport 530 -2107.86, -11840.3, 54.6131, 354.671 -- bloodwatch
+worldport 1 -2715.75, -2991.91, 38.8789 -- Bluefen
+worldport 0 -5290.85, -2945.92, 336.758, 319.59 -- bluntnose
+worldport 0 -7015.43, -3630.49, 241.677, 204.796 -- boff
+Worldport 0 -235.566, -2563.57, 118.626, 54.5861 -- bogensledge
+worldport 1 -2300, 2492.91, 72.3486, 260.145 -- bolgan
+worldport 0 -14456.1, 448.853, 20.4093, 314.595 -- bootbed
+worldport 0 -14378.6, 369.396, 23.9395, 259.38 -- bootblack
+worldport 0 -14411.2, 412.398, 22.7162, 208.665 -- booteng
+worldport 0 -14479, 450.751, 30.6523, 168.84 -- bootherb
+worldport 0 -14463.7, 420.197, 25.403, 166.77 -- bootleather
+worldport 0 -14400.7, 406.731, 23.0707, 234.585 -- bootleatherworker
+worldport 0 -14357.6, 372.217, 24.0959, 258.975 -- bootplate
+worldport 0 -14454.8, 451.223, 15.6602, 1.84477 -- bootsea
+worldport 0 -14483.2, 469.078, 31.5465, 90.3599 -- bootsky
+worldport 0 -14434.3, 390.503, 32.3385, 225.495 -- Boottailor
+worldport 0 -14457.8, 408.358, 25.2806, 280.53 -- boottan
+worldport 0 -14266.8, 347.675, 31.2286, 114.84 -- boottunnel
+worldport 0 -14319 450 27 -- Booty
+worldport 0 -14349.6, 416.301, 6.62684, 207.855 -- bootyport
+worldport 0 -14438.3, 433.999, 4.19641, 200.745 -- bootytower
+worldport 571 3562.23, 4951.41, 53.7024, 183.39 -- borean
+worldport 571 4025.83, 5328.55, 28.4032, 316.364 -- boreangnometown
+worldport 571 2196.22, 5299.02, 7.74801, 47.1738 -- boreanhumantown
+worldport 571 2731.99, 6092.61, 75.1069, 36.4635 -- boreanorctown
+worldport 571 3412.06, 4072.43, 16.9058, 42.0881 -- boreantaurentown
+worldport 571 3562.23, 4951.41, 53.7024, 183.39 -- boreantundra
+worldport 1 1773.78, -4489.72, 45.4206, 69.1045 -- Borstan
+worldport 1 3179.31, -3615.9, 129.523 -- Bough
+worldport 0 -1961.61, -2769.12, 77.7511, 58.8154 -- boulder
+worldport 1 -97.2885, 255.747, 99.1038, 72.4046 -- bouldercave
+worldport 0 -2015.74, -2829.94, 74.7431, 305.82 -- Boulderfist
+worldport 0 -1199.42, -2142.56, 62.9732, 299.362 -- bouldergor
+worldport 1 1350.97, -3644.48, 92.7527, 118.438 -- boulderhall
+worldport 1 1268.57, -3622.24, 90.6006, 4.54345 -- boulderload
+worldport 1 1355.04, -3545.52, 95.3659, 70.941 -- bouldermine
+worldport 1 -122.288, 213.756, 97.5171, 61.6496 -- boulderslide
+worldport 1 1254.37, -3599.26, 112.022, 333.066 -- bouldertower
+worldport 1 1912.23, -4773.07, 36.3266, 274.664 -- bowyer
+worldport 0 -9724.75, -931.106, 38.3168, 193.522 -- brackbarn
+worldport 1 -3193.3, -2922.7, 33.2404 -- brackcave
+worldport 1 -3132.87, -2886.71, 34.6342 -- brackenwall
+worldport 0 -9724.87, -965.057, 38.8778 -- brackwell
+worldport 0 -9805.13, -927.868, 39.8569, 240.412 -- brackwellhouse
+worldport 1  -3124.94, -1019.61, 51.068 -- brambleblade
+worldport 1 -2207.46, -2519.11, 91.6669, 203.149 -- bramblescar
+port 244.541, 72.6848, 25.7196, 51.425 -- bravehall
+worldport 0 -5371 304 395 -- brewnall
+worldport 1 -1187.61, 2879.25, 85.8009, 292.455 -- bridgeinstance
+worldport 0 2707.8, -13.1061, 32.6477 -- brightwater
+worldport 0 -10465.6, -829.89, 51.3365 -- Brightwood
+worldport 0 2248.74 290.518 35 -- brill
+worldport 0 2296.64, 280.575, 37.3083 -- brilltown
+worldport 530 -3488.06, -12358.9, 16.4663, 3.25635 -- bristlebend
+worldport 530 -4581.12, -11690.9, 22.4921, 105.676 -- bristlelimb
+worldport 530 -1692.08, 3970.72, 66.5429, 100.334 -- BrokenHills
+Worldport 1 -7806.59, -7980.9, -3957.89, 8.95292, 79.8167 -- brokenpillar
+worldport 1 -1784.46, 3060.89, 12.5221, 43.6503 -- BrokenSpear
+worldport 571 3114.13, 67.2918, 80.8071, 180.96 -- bronzeshrine
+worldport 1 1689.12, -4411.89, 21.7077 -- broomstick
+Worldport 0 2474.01, -5129.86, 76.6223, 290.452 -- browmanmill
+worldport 0 -4961.7, -1284.03, 501.97, 108.953 -- bruuk
+worldport 564 -198.473, 1056.53, -173.69, 359.171 -- btinstance
+worldport 0 1718.64, -826.001, 59.0549 -- bulwark
+worldport 451 -3758.84, -9057.63, 42.2429, 182.945 -- burnedbeach
+worldport 0 -8564.95 -2563.52 133.149 -- Burning
+worldport 1 2057.75, -4831.05, 24.3508, 257.497 -- burninganvil
+worldport 1 812.254, -4751.58, 36.497 -- Burningbladecoven
+worldport 0 -7960 -2525 133 -- burningogre
+worldport 0 -7772 -2489 159 -- burningrope
+worldport 0 -3197.03 -906.97 106.749 -- burrow
 worldport 0 1054.73, -2528.51, 59.1415, 335.292
 port 2536.55, 860.271, 50.0837, 253.53
 worldport 1 -27.8995, -482.632, -42.9409, 211.727
