@@ -977,52 +977,52 @@ worldport 1 -714.519, 1431, 90.5189, 219.516 -- kormek
 worldport 1 276.343, -3031.5, 97.4943, 6.29882 -- kranalhouse
 worldport 0 -11584.6, -651.986, 32.1268 -- Kurzen
 worldport 0 -11503.2, -728.489, 31.6042, 305.142 -- kurzencomp
-worldport 530 8256.13, -7486.48, 165.042, 259.092
-Worldport 1 7694.59, -2380.74, 457.147, 242.237
-worldport 1 3015.08, 477.534, 5.34806
-Worldport 1 6602.73, -4001.12, 665.223, 161.746
-Worldport 0 1837.46, -4549.23, 73.9459, 177.503
-Worldport 0 -9625.53, -2690.7, 57.0617, 86.6043
-worldport 0 -9281.02, -2251.16, 64.0341
-worldport 0 -9238.55, -2211.08, 66.179
-worldport 571 4772.29, 2791.34, 78.574, 176.415
-Worldport 1 -10213.4, -3943.11, 2.25979, 250.232
-Worldport 1 -4163.96, 113.833, 55.4655, 349.878
-worldport 1 4502.07, -6314.25, 123.135, 271.576
-worldport 0 -6759.73, -3806.35, 264.333
-worldport 0 -4637.7, -1293.6, 503.382, 277.253
-worldport 0 -11404 1962 12
-Worldport 0 2281.01, -5316.55, 88.7023, 302.377
-worldport 1 -6417.63, -1097.52, -268.826
-worldport 0 -9471.74, 33.0108, 56.966
-worldport 571 1977.51, -6096.67, 67.1427, 235.541
-Worldport 571 1962.34, -3262.09, 134.771, 0.403582
-worldport 571 2839.63, 4022.47, 4.83095, 26.1942
-worldport 571 4403.64, -2500.32, 252.986, 36.405
-worldport 571 4081.78, 5294.93, 28.6746, 27.3749
-port -5627 -3780 372
-worldport 0 -5708 -3313 350
-worldport 0 -5070 -3882 371
-port -5876 -2907 395
-port -5837 -3788 352
-port -6014 -2514 353
-worldport 0 -5645.82, -4290.71, 407.812
-worldport 0 -5212.47, -3105.25, 303.171
-worldport 0 -5868.3, -3695.66, 362.306
-worldport 0 -5345, -2858, 340
-port -5414, -2881
-worldport 0 -4713.1, -960.234, 505.288, 210.061
-worldport 0  -9737.03, 1039.77, 35.7958
-worldport 1 6278.38, 556.427, 3.6361
-worldport 0 949.55, -80.3931, 51.4677, 96.0749
-worldport 0 1821.96, 239.509, 60.6904
-worldport 0  -185.06, 176.402, 70.3195
-worldport 0 1133.42, 894.298, 30.8465, 88.8816
-worldport 1 -3914.73, -2811.67, 37.5792
-Worldport 1 -8056.13, -5306.19, 0.577877, 256.397
-worldport 619 344.43, -1102.77, 59.9502, 32.0955
-worldport 1 2000.46, -4654.28, 26.4498, 81.4116
-worldport 1 -893.084, -2051.54, 80.9644
+worldport 530 8256.13, -7486.48, 165.042, 259.092 -- LakeElrendar
+Worldport 1 7694.59, -2380.74, 457.147, 242.237 -- lakeeluneara
+worldport 1 3015.08, 477.534, 5.34806 -- Lakefalathim
+Worldport 1 6602.73, -4001.12, 665.223, 161.746 -- lakekeltheril
+Worldport 0 1837.46, -4549.23, 73.9459, 177.503 -- lakemereldar
+Worldport 0 -9625.53, -2690.7, 57.0617, 86.6043 -- lakeridgehighway
+worldport 0 -9281.02, -2251.16, 64.0341 -- Lakeshire
+worldport 0 -9238.55, -2211.08, 66.179 -- Lakeshiretownhall
+worldport 571 4772.29, 2791.34, 78.574, 176.415 -- lakewintergrasp
+Worldport 1 -10213.4, -3943.11, 2.25979, 250.232 -- landsendbeach
+Worldport 1 -4163.96, 113.833, 55.4655, 349.878 -- larisspavillion
+worldport 1 4502.07, -6314.25, 123.135, 271.576 -- legash
+worldport 0 -6759.73, -3806.35, 264.333 -- Lethlor
+worldport 0 -4637.7, -1293.6, 503.382, 277.253 -- library
+worldport 0 -11404 1962 12 -- lighthouse
+Worldport 0 2281.01, -5316.55, 88.7023, 302.377 -- lightshopechapel
+worldport 1 -6417.63, -1097.52, -268.826 -- Likashtarpits
+worldport 0 -9471.74, 33.0108, 56.966 -- lionspride
+worldport 571 1977.51, -6096.67, 67.1427, 235.541 -- LKdemo1
+Worldport 571 1962.34, -3262.09, 134.771, 0.403582 -- LKdemo2
+worldport 571 2839.63, 4022.47, 4.83095, 26.1942 -- LKdemo3
+worldport 571 4403.64, -2500.32, 252.986, 36.405 -- LKdemo4
+worldport 571 4081.78, 5294.93, 28.6746, 27.3749 -- LKdemo5
+port -5627 -3780 372 -- lmexc1
+worldport 0 -5708 -3313 350 -- lmloch
+worldport 0 -5070 -3882 371 -- lmogre
+port -5876 -2907 395 -- LMS1
+port -5837 -3788 352 -- lms2
+port -6014 -2514 353 -- LMStart
+worldport 0 -5645.82, -4290.71, 407.812 -- lochelf
+worldport 0 -5212.47, -3105.25, 303.171 -- lochfish
+worldport 0 -5868.3, -3695.66, 362.306 -- lochhorde
+worldport 0 -5345, -2858, 340 -- Lochmodan
+port -5414, -2881 -- LochTest
+worldport 0 -4713.1, -960.234, 505.288, 210.061 -- longberry
+worldport 0  -9737.03, 1039.77, 35.7958 -- longshore
+worldport 1 6278.38, 556.427, 3.6361 -- longwash
+worldport 0 949.55, -80.3931, 51.4677, 96.0749 -- lord
+worldport 0 1821.96, 239.509, 60.6904 -- Lordaeron
+worldport 0  -185.06, 176.402, 70.3195 -- lordamere
+worldport 0 1133.42, 894.298, 30.8465, 88.8816 -- LordamereLake
+worldport 1 -3914.73, -2811.67, 37.5792 -- lostpoint
+Worldport 1 -8056.13, -5306.19, 0.577877, 256.397 -- lostriggercove
+worldport 619 344.43, -1102.77, 59.9502, 32.0955 -- LowerCity
+worldport 1 2000.46, -4654.28, 26.4498, 81.4116 -- lumak
+worldport 1 -893.084, -2051.54, 80.9644 -- lush
 worldport 0  -9889.84, 54.1639, 31.9245
 worldport 0 -9916.04, 27.3485, 32.0138, 215.73
 worldport 0 -10013.1, 38.9622, 35.1705, 201.735
