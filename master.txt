@@ -34,67 +34,67 @@ worldport 0 -271.704, -3442.06, 187.348 -- AltarofZul
 worldport 0 239.803, -655.965, 118.927, 192.465 -- Alterac
 worldport 451 4973.07, -1983.39, 81.1231, 242.241 -- alteracnew
 worldport 30 -126.647, -275.183, 6.72377, 223.078 -- alteracpvp
-worldport 0 606.909, -339.729, 151.495
-worldport 0 340.303, -1475.33, 42.2806, 156.768
-worldport 30 -291.821, -248.7, 7.73209, 197.383
-worldport 1 7180.46, -756.36, 59.6499
-worldport 530 7607, -7498.48, 172.056, 198.343
-worldport 530 6892.77, -7463.75, 68.8467, 257.744
-worldport 0 -188.095, 918.118, 66.7066, 253.039
-worldport 0 63.4587, 774.449, 64.0119, 326.794
-worldport 0 -75.2319, 808.39, 64.8913, 249.844
-worldport 0 -221.576, 811.699, 75.4194, 272.299
-worldport 0 -161.731, 791.789, 64.7645, 244.174
-worldport 0 -174 934 108
-worldport 571 3412.72, -2855.16, 200.693, 79.7099
-worldport 0 -5655.38, -1276.43, 389.806, 5.28723
-worldport 0 -125.267, 802.414, 66.0208, 287.779
-worldport 0 33.8735, 783.979, 64.9515, 92.4791
-worldport 1 9492.4, 1104.28, 1251.64
-worldport 1 5617.41, 183.559, 28.8007
-worldport 530 -3969.67, -13916, 99.3949, 117.397
-worldport 530 -3968, -13918, 103.0933, 103.83
+worldport 0 606.909, -339.729, 151.495 -- AlteracRuins
+worldport 0 340.303, -1475.33, 42.2806, 156.768 -- alteracshaman
+worldport 30 -291.821, -248.7, 7.73209, 197.383 -- AlteracValley
+worldport 1 7180.46, -756.36, 59.6499 -- Althalaxx
+worldport 530 7607, -7498.48, 172.056, 198.343 -- AmaniCatacombs
+worldport 530 6892.77, -7463.75, 68.8467, 257.744 -- AmaniPass
+worldport 0 -188.095, 918.118, 66.7066, 253.039 -- amber2story
+worldport 0 63.4587, 774.449, 64.0119, 326.794 -- amberbarn
+worldport 0 -75.2319, 808.39, 64.8913, 249.844 -- ambercook
+worldport 0 -221.576, 811.699, 75.4194, 272.299 -- amberfarm
+worldport 0 -161.731, 791.789, 64.7645, 244.174 -- amberhouse
+worldport 0 -174 934 108 -- Ambermill
+worldport 571 3412.72, -2855.16, 200.693, 79.7099 -- amberpine
+worldport 0 -5655.38, -1276.43, 389.806, 5.28723 -- amberstill
+worldport 0 -125.267, 802.414, 66.0208, 287.779 -- ambertownhall
+worldport 0 33.8735, 783.979, 64.9515, 92.4791 -- amberwheathouse
+worldport 1 9492.4, 1104.28, 1251.64 -- ameth
+worldport 1 5617.41, 183.559, 28.8007 -- Ametharan
+worldport 530 -3969.67, -13916, 99.3949, 117.397 -- Ammenvale 
+worldport 530 -3968, -13918, 103.0933, 103.83 -- Ammenvale
 worldport 530 -2207.65, 8793.9, 39.4005, 62.711 -- Ancestralgrounds
-worldport 0 1374.53, -1518.89, 71.1265
-worldport 530 7021.51, -6760.03, 40.2441, 275.296
-worldport 530 1063.98, 8515.53, 20.7383, 77.3669
-worldport 530 6880.9, -7167.96, 45.041, 263.907
-worldport 530 7387.24, -7321.59, 96.4859, 21.7194
-worldport 0 -6131.41, 385.235, 395.543
-worldport 0 -6216.15, 116.656, 431.661
-worldport 0 -6903.81, -2514.97, 241.225
-worldport 0 -2230.18, -2444.42, 82.8797
+worldport 0 1374.53, -1518.89, 71.1265 -- anderhol
+worldport 530 7021.51, -6760.03, 40.2441, 275.296 -- Andilien
+worldport 530 1063.98, 8515.53, 20.7383, 77.3669 -- angorosh
+worldport 530 6880.9, -7167.96, 45.041, 263.907 -- Anowyn
+worldport 530 7387.24, -7321.59, 96.4859, 21.7194 -- Antelas
+worldport 0 -6131.41, 385.235, 395.543 -- AnvilMar
+worldport 0 -6216.15, 116.656, 431.661 -- apass
+worldport 0 -6903.81, -2514.97, 241.225 -- Apocryphan
+worldport 0 -2230.18, -2444.42, 82.8797 -- arathi
 port -2125 -1999 7 -- ArathiCove
-worldport 0 -1081.49, -3552.28, 50.5609
-worldport 0 -1766.13, -1529.39, 64.9209
-worldport 530 2955.32, 3719.1, 142.749, 353.251
-worldport 0 -13208 270 22
-worldport 1 2093.43, -4820.64, 24.1816, 334.222
+worldport 0 -1081.49, -3552.28, 50.5609 -- ArathiIntern
+worldport 0 -1766.13, -1529.39, 64.9209 -- Arathor
+worldport 530 2955.32, 3719.1, 142.749, 353.251 -- Area52
+worldport 0 -13208 270 22 -- Arena
+worldport 1 2093.43, -4820.64, 24.1816, 334.222 -- arms
 worldport 451 -3263.5, -9032.72, 92.7521, 25.4447 -- arthasmilitary
-worldport 1 2690.07, 355.897, 67.3485
-worldport 1 3657.1, 1776.15, -1.44502, 70.304
-worldport 1 1896.4, -4324.38, 23.169, 122.7
-worldport 1 2731.8, -370.323, 107.09
-worldport 1 2680.61, -449.628, 109.52, 76.117
-worldport 1 2808.07, -315.385, 108.995, 228.712
-port 265.199, -427.117, 18.5342, 221.4
+worldport 1 2690.07, 355.897, 67.3485 -- Ashenvale
+worldport 1 3657.1, 1776.15, -1.44502, 70.304 -- ashenveil
+worldport 1 1896.4, -4324.38, 23.169, 122.7 -- asoran
+worldport 1 2731.8, -370.323, 107.09 -- Astranaar
+worldport 1 2680.61, -449.628, 109.52, 76.117 -- astransmhouse
+worldport 1 2808.07, -315.385, 108.995, 228.712 -- astransmhouse1
+port 265.199, -427.117, 18.5342, 221.4 -- athenaeum
 worldport 0 -9200.99, -2776.79, 90.7384 -- Athersmill
-worldport 1 6439, 409 15
-worldport 530 -3429.86, 4986.95, -61.6359, 321.244
-worldport 556 0 0 0
-worldport 558 0 0 0
-worldport 557 0 0 0
-worldport 555 0 0 0
-worldport 451 -4275.02, 1549.87, -0.496731, 77.2814
-worldport 619 377.8, -1082.19, 47.7542, 29.0799
-Worldport 601 532.58, 691.023, 775.461, 269.164
-Worldport 601 532.58, 691.023, 775.461, 269.164
-worldport 1 2789.68, -3830.68, 91.0485
-worldport 0 -887.133, 196.869, 11.877, 144.54
-worldport 530 9487.32, -8042.84, 3.49195, 240.732
-worldport 0 -857.826, 195.366, 17.2759
-worldport 530 -4254.41, -13029.3, 0.640537, 87.2478
-worldport 530 -4175.05, -12531, 44.6314, 96.0224
+worldport 1 6439, 409 15 -- auberdine
+worldport 530 -3429.86, 4986.95, -61.6359, 321.244 -- Auchindoun
+worldport 556 0 0 0 -- AuchindounDemon
+worldport 558 0 0 0 -- AuchindounDraenei
+worldport 557 0 0 0 -- AuchindounEtherial
+worldport 555 0 0 0 -- AuchindounShadow
+worldport 451 -4275.02, 1549.87, -0.496731, 77.2814 -- azjol
+worldport 619 377.8, -1082.19, 47.7542, 29.0799 -- AzjolLowerCity
+Worldport 601 532.58, 691.023, 775.461, 269.164 -- Azjolupper
+Worldport 601 532.58, 691.023, 775.461, 269.164 -- Azjoluppercity
+worldport 1 2789.68, -3830.68, 91.0485 -- azshara
+worldport 0 -887.133, 196.869, 11.877, 144.54 -- azure
+worldport 530 9487.32, -8042.84, 3.49195, 240.732 -- Azurebreeze
+worldport 0 -857.826, 195.366, 17.2759 -- Azureload
+worldport 530 -4254.41, -13029.3, 0.640537, 87.2478 -- Azuremyst
+worldport 530 -4175.05, -12531, 44.6314, 96.0224 -- Azurewatch
 worldport 0 -6914, -2177, 261
 worldport 0 -6568.49, -3468.38, 304.625
 worldport 1  -1924.18, 305.699, 88.5952
