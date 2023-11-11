@@ -1,6 +1,12 @@
 ﻿TRUNCATE TABLE `game_tele`;
 SET @ID = 1;
 INSERT INTO `game_tele` (`id`, `position_x`, `position_y`, `position_z`, `orientation`, `map`, `name`) VALUES
+-- Build 4714
+-- Build 5496
+-- Build 7318
+-- Build 8962
+-- Build 9722
+-- Build 10048
 (@ID+    , -5195.53, -2802.04, -7.71064, 0,        1,   '1000cave'),               -- Build 4714, Ø
 (@ID+    , -4687,    -1819,    -57,      0,        1,   '1000Needles'),            -- Build 4714, Ø
 (@ID+    , -8910.07, -192.197, 81.9402,  0,        0,   'abbeyhall'),              -- Build 4714, Ø
