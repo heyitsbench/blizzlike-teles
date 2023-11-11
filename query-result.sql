@@ -1919,114 +1919,114 @@ INSERT INTO `game_tele` (`id`, `position_x`, `position_y`, `position_z`, `orient
 (@ID+    , -29.6678, -2489.56, 120.37,   0,        0,   'Zunwatha'),               -- 
 (@ID+    , -11693.4, 953.956,  3.89938,  0,        0,   'Zuuldaia'),               -- 
                      
-(@ID+    , -2125,    -1999,    7,        0,        ,    'ArathiCove'),             -- Build 4714, no map, Ø
-(@ID+    , 265.199,  -427.117, 18.5342,  221.4,    ,    'athenaeum'),              -- Build 4714, no map
+(@ID+    , -2125,    -1999,    7,        0,        0,   'ArathiCove'),             -- Build 4714, no map, Ø
+(@ID+    , 265.199,  -427.117, 18.5342,  221.4,    189, 'athenaeum'),              -- Build 4714, no map
 (@ID+    , 2527.06,  -4114.52, 232.199,  178.013,  ,    'barbarianhq'),            -- Build 8962, no map
-(@ID+    , -192.194, 2263.92,  90.6423,  144.112,  ,    'bighall'),                -- Build 4714, no map
-(@ID+    , 867.438,  -216.827, -43.7523, 53.2574,  ,    'blackbar'),               -- Build 4714, no map
-(@ID+    , 595.562,  -193.088, -54.0977, 266.85,   ,    'blackcoliseum'),          -- Build 4714, no map
-(@ID+    , -248.856, 34.2735,  -55.2836, 171.66,   ,    'blackdrown'),             -- Build 4714, no map
-(@ID+    , -819.566, -211.133, -25.9026, 282.135,  ,    'blacklair'),              -- Build 4714, no map
-(@ID+    , -818.747, -107.808, -25.87,   245.415,  ,    'blackmoon'),              -- Build 4714, no map
-(@ID+    , -376.689, 158.496,  -55.5706, 150.24,   ,    'blackpool'),              -- Build 4714, no map
-(@ID+    , -736.607, 18.4317,  -30.3908, 251.13,   ,    'blackruins'),             -- Build 4714, no map
-(@ID+    , 244.541,  72.6848,  25.7196,  51.425,   ,    'bravehall'),              -- Build 4714, no map
-(@ID+    , 2536.55,  860.271,  50.0837,  253.53,   ,    'caller'),                 -- Build 4714, no map
-(@ID+    , 739.457,  68.5399,  -86.6019, 126.72,   ,    'celebras'),               -- Build 4714, no map
-(@ID+    , -538.024, 174.099,  -193.732, 87.57,    ,    'cleanzone'),              -- Build 4714, no map
-(@ID+    , -5158,    -655,     400,      0,        ,    'DMScenic'),               -- Build 4714, no map, Ø
-(@ID+    , 163.842,  -429.209, 18.5104,  166.5,    ,    'doan'),                   -- Build 4714, no map
-(@ID+    , -10792,   -2018,    138,      0,        ,    'DWPTest'),                -- Build 4714, no map, Ø
-(@ID+    , 167.813,  -283.427, -170.038, 146.52,   ,    'earth'),                  -- Build 4714, no map
-(@ID+    , 519.901,  23.6654,  -96.3129, 129.285,  ,    'earthsong'),              -- Build 4714, no map
-(@ID+    , -9855,    -1732,    25,       0,        ,    'eldure'),                 -- Build 4714, no map, Ø
+(@ID+    , -192.194, 2263.92,  90.6423,  144.112,  33,  'bighall'),                -- Build 4714, no map
+(@ID+    , 867.438,  -216.827, -43.7523, 53.2574,  230, 'blackbar'),               -- Build 4714, no map
+(@ID+    , 595.562,  -193.088, -54.0977, 266.85,   230, 'blackcoliseum'),          -- Build 4714, no map
+(@ID+    , -248.856, 34.2735,  -55.2836, 171.66,   48,  'blackdrown'),             -- Build 4714, no map
+(@ID+    , -819.566, -211.133, -25.9026, 282.135,  48,  'blacklair'),              -- Build 4714, no map
+(@ID+    , -818.747, -107.808, -25.87,   245.415,  48,  'blackmoon'),              -- Build 4714, no map
+(@ID+    , -376.689, 158.496,  -55.5706, 150.24,   48,  'blackpool'),              -- Build 4714, no map
+(@ID+    , -736.607, 18.4317,  -30.3908, 251.13,   48,  'blackruins'),             -- Build 4714, no map
+(@ID+    , 244.541,  72.6848,  25.7196,  51.425,   450, 'bravehall'),              -- Build 4714, no map
+(@ID+    , 2536.55,  860.271,  50.0837,  253.53,   129, 'caller'),                 -- Build 4714, no map
+(@ID+    , 739.457,  68.5399,  -86.6019, 126.72,   349, 'celebras'),               -- Build 4714, no map
+(@ID+    , -538.024, 174.099,  -193.732, 87.57,    90,  'cleanzone'),              -- Build 4714, no map
+(@ID+    , -5158,    -655,     400,      0,        0,   'DMScenic'),               -- Build 4714, no map, Ø
+(@ID+    , 163.842,  -429.209, 18.5104,  166.5,    189, 'doan'),                   -- Build 4714, no map
+(@ID+    , -10792,   -2018,    138,      0,        0,   'DWPTest'),                -- Build 4714, no map, Ø
+(@ID+    , 167.813,  -283.427, -170.038, 146.52,   349, 'earth'),                  -- Build 4714, no map
+(@ID+    , 519.901,  23.6654,  -96.3129, 129.285,  349, 'earthsong'),              -- Build 4714, no map
+(@ID+    , -9855,    -1732,    25,       0,        0,   'eldure'),                 -- Build 4714, no map, Ø
 (@ID+    , 9330.31,  -7824.76, 138.207,  339.822,  ,    'EversongJump'),           -- Build 7318, no map
-(@ID+    , -4367,    123,      33,       0,        ,    'feralas1'),               -- Build 4714, no map, Ø
-(@ID+    , -4078,    239,      59,       0,        ,    'feralas2'),               -- Build 4714, no map, Ø
-(@ID+    , -4663,    756,      86,       0,        ,    'feralas3'),               -- Build 4714, no map, Ø
-(@ID+    , -4787,    1031,     115,      0,        ,    'feralas4'),               -- Build 4714, no map, Ø
-(@ID+    , -4747,    1552,     92,       0,        ,    'feralas5'),               -- Build 4714, no map, Ø
-(@ID+    , -4138,    2093,     93,       0,        ,    'feralas6'),               -- Build 4714, no map, Ø
-(@ID+    , -3633,    2177,     72,       0,        ,    'feralas7'),               -- Build 4714, no map, Ø
-(@ID+    , -4394,    3229,     14,       0,        ,    'feralasi1'),              -- Build 4714, no map, Ø
-(@ID+    , -5956,    3026,     12,       0,        ,    'feralasi2'),              -- Build 4714, no map, Ø
-(@ID+    , 1016.83,  -458.52,  -43.4737, 0,        ,    'foulspore'),              -- Build 4714, no map
+(@ID+    , -4367,    123,      33,       0,        1,   'feralas1'),               -- Build 4714, no map, Ø
+(@ID+    , -4078,    239,      59,       0,        1,   'feralas2'),               -- Build 4714, no map, Ø
+(@ID+    , -4663,    756,      86,       0,        1,   'feralas3'),               -- Build 4714, no map, Ø
+(@ID+    , -4787,    1031,     115,      0,        1,   'feralas4'),               -- Build 4714, no map, Ø
+(@ID+    , -4747,    1552,     92,       0,        1,   'feralas5'),               -- Build 4714, no map, Ø
+(@ID+    , -4138,    2093,     93,       0,        1,   'feralas6'),               -- Build 4714, no map, Ø
+(@ID+    , -3633,    2177,     72,       0,        1,   'feralas7'),               -- Build 4714, no map, Ø
+(@ID+    , -4394,    3229,     14,       0,        1,   'feralasi1'),              -- Build 4714, no map, Ø
+(@ID+    , -5956,    3026,     12,       0,        1,   'feralasi2'),              -- Build 4714, no map, Ø
+(@ID+    , 1016.83,  -458.52,  -43.4737, 0,        349, 'foulspore'),              -- Build 4714, no map
 (@ID+    , -3565.47, 714.149,  -10.8845, 274.635,  ,    'GFW1'),                   -- Build 7318, no map
 (@ID+    , 96.9228,  1002.91,  -86.9591, 347.983,  ,    'GFW2'),                   -- Build 7318, no map
 (@ID+    , 431.756,  902.304,  21.1373,  92.3833,  ,    'GFW3'),                   -- Build 7318, no map
 (@ID+    , 701.875,  464.213,  112.745,  268.334,  ,    'GFW4'),                   -- Build 7318, no map
 (@ID+    , 600.694,  219.4,    112.735,  265.254,  ,    'GFW5'),                   -- Build 7318, no map
 (@ID+    , 534.75,   402.958,  193.2,    358.404,  ,    'GFW6'),                   -- Build 7318, no map
-(@ID+    , 144.457,  -320.01,  -174.423, 153.36,   ,    'gizlock'),                -- Build 4714, no map
-(@ID+    , 755.078,  -617.696, -32.9223, 65.88,    ,    'grotto'),                 -- Build 4714, no map
+(@ID+    , 144.457,  -320.01,  -174.423, 153.36,   349, 'gizlock'),                -- Build 4714, no map
+(@ID+    , 755.078,  -617.696, -32.9223, 65.88,    349, 'grotto'),                 -- Build 4714, no map
 (@ID+    , 1845.26,  -3773.64, 171.565,  70.0128,  ,    'hfally01'),               -- Build 8962, no map
-(@ID+    , -11758,   3379,     64,       0,        ,    'Island2'),                -- Build 4714, no map, Ø
-(@ID+    , 722.801,  -328.71,  -51.3067, 198.45,   ,    'khan'),                   -- Build 4714, no map
-(@ID+    , -5627,    -3780,    372,      0,        ,    'lmexc1'),                 -- Build 4714, no map, Ø
-(@ID+    , -5876,    -2907,    395,      0,        ,    'LMS1'),                   -- Build 4714, no map, Ø
-(@ID+    , -5837,    -3788,    352,      0,        ,    'lms2'),                   -- Build 4714, no map, Ø
-(@ID+    , -6014,    -2514,    353,      0,        ,    'LMStart'),                -- Build 4714, no map, Ø
-(@ID+    , -5414,    -2881,    ,         0,        ,    'LochTest'),               -- Build 4714, no map, no Z, Ø
-(@ID+    , 969.086,  -944.471, -180.925, 155.413,  ,    'magamadar'),              -- Build 4714, no map
-(@ID+    , -8990.82, 849.174,  29.6206,  303.885,  ,    'mageportal'),             -- Build 4714, no map
-(@ID+    , 1087.37,  -502.999, -105.05,  290.503,  ,    'moltengiants'),           -- Build 4714, no map
-(@ID+    , 752.556,  -514.892, -214.873, 103.561,  ,    'moltenguild2'),           -- Build 4714, no map
-(@ID+    , 619.336,  -789.619, -208.185, 202.021,  ,    'moltenlavafall'),         -- Build 4714, no map
-(@ID+    , 603.728,  -1170.07, -196.476, 248.551,  ,    'moltenmount'),            -- Build 4714, no map
-(@ID+    , 2506.42,  762.703,  39.5605,  18.72,    ,    'murder'),                 -- Build 4714, no map
-(@ID+    , -158.441, 131.601,  -74.2552, 335,      ,    'naralex'),                -- Build 4714, no map
-(@ID+    , -11852,   3183,     23,       0,        ,    'Newport'),                -- Build 4714, no map, Ø
-(@ID+    , 1122.33,  -215.34,  -79.2644, 77.8499,  ,    'noxious'),                -- Build 4714, no map
-(@ID+    , -168.103, -170.139, -62.2933, 259.048,  ,    'onyrally'),               -- Build 4714, no map
-(@ID+    , -45.8955, -209.964, -86.3693, 344.581,  ,    'onyxialair'),             -- Build 4714, no map
-(@ID+    , -16.3442, -95.3066, -31.1741, 176.608,  ,    'onyxiapreinstance'),      -- Build 4714, no map
-(@ID+    , -12373,   199,      4,        0,        ,    'Orc_Camp'),               -- Build 4714, no map, Ø
-(@ID+    , 914.691,  -114.727, -61.8669, 223.875,  ,    'poisonfalls'),            -- Build 4714, no map
-(@ID+    , 112.182,  -185.626, -167.457, 163.395,  ,    'primordial'),             -- Build 4714, no map
-(@ID+    , 20.2366,  -237.602, -78.226,  339.435,  ,    'pythas'),                 -- Build 4714, no map
-(@ID+    , 739.95,   -807.686, -226.097, 350.071,  ,    'ragnaros'),               -- Build 4714, no map
-(@ID+    , 2117.92,  1899.71,  71.2216,  143.4,    ,    'razorcave'),              -- Build 4714, no map
-(@ID+    , 1942.27,  1544.23,  81.8049,  85.8,     ,    'razorinstance'),          -- Build 4714, no map
-(@ID+    , 963.957,  -69.922,  -61.9004, 73.1699,  ,    'razorlash'),              -- Build 4714, no map
-(@ID+    , 2478.58,  686.714,  54.1965,  234,      ,    'razorparty'),             -- Build 4714, no map
-(@ID+    , 2089.79,  1759.07,  78.503,   217.695,  ,    'razorupper'),             -- Build 4714, no map
-(@ID+    , 1796.72,  1218.32,  18.1631,  94.1848,  ,    'scarlet forlorn'),        -- Build 4714, no map
-(@ID+    , 853.179,  1322.04,  18.6715,  359.46,   ,    'scarletcathedral'),       -- Build 4714, no map
-(@ID+    , 1759.21,  1117.14,  7.49028,  129.735,  ,    'scarletchamber'),         -- Build 4714, no map
-(@ID+    , 1939.33,  -431.974, 18.008,   350.235,  ,    'scarletchampion'),        -- Build 4714, no map
-(@ID+    , 891.571,  1392.97,  18.6778,  13.5,     ,    'scarletchapel'),          -- Build 4714, no map
-(@ID+    , 1826.42,  -428.567, 13.1005,  357.21,   ,    'scarletcrusader'),        -- Build 4714, no map
-(@ID+    , 1747.48,  -364.851, 7.91357,  277.38,   ,    'scarletfootman'),         -- Build 4714, no map
-(@ID+    , 222.624,  -328.366, 18.5347,  249.705,  ,    'scarletgallery'),         -- Build 4714, no map
-(@ID+    , 1797.77,  1417.62,  14.1412,  14.355,   ,    'scarlethonor'),           -- Build 4714, no map
-(@ID+    , 200.856,  -243.358, 19.201,   182.655,  ,    'scarlethuntsman'),        -- Build 4714, no map
-(@ID+    , 1687.29,  1052.52,  18.6773,  306.63,   ,    'scarletinstance'),        -- Build 4714, no map
-(@ID+    , 253.392,  -208.235, 18.6773,  6.84002,  ,    'scarletlibrary'),         -- Build 4714, no map
-(@ID+    , 139.383,  -252.935, 19.201,   195.255,  ,    'scarletloksey'),          -- Build 4714, no map
-(@ID+    , 1151.03,  1400.84,  32.5278,  354.15,   ,    'scarletmograine'),        -- Build 4714, no map
-(@ID+    , 1643.77,  -337.614, 18.6778,  269.145,  ,    'scarletraining'),         -- Build 4714, no map
-(@ID+    , 1624.67,  -324.861, 18.0074,  277.605,  ,    'scarletwar'),             -- Build 4714, no map
-(@ID+    , 1191.67,  1398.64,  29.0097,  333,      ,    'scarletwhitemane'),       -- Build 4714, no map
-(@ID+    , -46.4436, 207.023,  -96.1442, 24.5449,  ,    'screaming'),              -- Build 4714, no map
-(@ID+    , -110.196, 2158.51,  155.678,  339.55,   ,    'shadowboss'),             -- Build 4714, no map
-(@ID+    , -252.756, 2247.93,  100.892,  195.691,  ,    'shadowchapel'),           -- Build 4714, no map
-(@ID+    , -225.914, 2186.08,  79.7653,  28.0563,  ,    'shadowcourt'),            -- Build 4714, no map
-(@ID+    , -255.822, 2298.27,  74.9993,  260.797,  ,    'shadowdining'),           -- Build 4714, no map
-(@ID+    , -240.503, 2159.73,  90.6239,  75.13,    ,    'shadowdoor'),             -- Build 4714, no map
-(@ID+    , -228.191, 2111.41,  76.8904,  70,       ,    'shadowentrance'),         -- Build 4714, no map
-(@ID+    , -253.611, 2125.43,  81.1796,  351.34,   ,    'shadowjail'),             -- Build 4714, no map
-(@ID+    , -179.409, 2232.8,   76.2413,  107.078,  ,    'shadowkitchen'),          -- Build 4714, no map
-(@ID+    , 541,      1587,     159,      0,        ,    'SPCrypt'),                -- Build 4714, no map, Ø
-(@ID+    , 2534.05,  964.935,  49.4901,  3.24004,  ,    'spiral'),                 -- Build 4714, no map
-(@ID+    , -10698,   284,      31,       0,        ,    'tear'),                   -- Build 4714, no map, Ø
-(@ID+    , 636.773,  -285.32,  -52.9057, 102.555,  ,    'vyletongue'),             -- Build 4714, no map
-(@ID+    , -147.78,  68.4835,  -106.109, 211.61,   ,    'wailcrag'),               -- Build 4714, no map
-(@ID+    , 82.3619,  215.424,  -93.1483, 25.5349,  ,    'waildream'),              -- Build 4714, no map
-(@ID+    , 694.622,  -103.917, -56.0687, 188.28,   ,    'wickedgrotto'),           -- Build 4714, no map
-(@ID+    , -169.353, -98.1102, -66.7224, 346.655,  ,    'winding'),                -- Build 4714, no map
-(@ID+    , -153.017, 2177.18,  128.448,  287.932,  ,    'wizardroom'),             -- Build 4714, no map
-(@ID+    , -80.8079, -257.355, -170.42,  200.25,   ,    'zaemar'),                 -- Build 4714, no map
-(@ID+    , 89.9565,  -179.953, -168.564, 163.44,   ,    'zaetar'),                 -- Build 4714, no map
-(@ID+    , -11718.8, 3585.14,  99,       0,        ,    'ZulRatta'),               -- Build 4714, no map, Ø
+(@ID+    , -11758,   3379,     64,       0,        0,   'Island2'),                -- Build 4714, no map, Ø
+(@ID+    , 722.801,  -328.71,  -51.3067, 198.45,   349, 'khan'),                   -- Build 4714, no map
+(@ID+    , -5627,    -3780,    372,      0,        0,   'lmexc1'),                 -- Build 4714, no map, Ø
+(@ID+    , -5876,    -2907,    395,      0,        0,   'LMS1'),                   -- Build 4714, no map, Ø
+(@ID+    , -5837,    -3788,    352,      0,        0,   'lms2'),                   -- Build 4714, no map, Ø
+(@ID+    , -6014,    -2514,    353,      0,        0,   'LMStart'),                -- Build 4714, no map, Ø
+(@ID+    , -5414,    -2881,    ,         0,        0,   'LochTest'),               -- Build 4714, no map, no Z, Ø
+(@ID+    , 969.086,  -944.471, -180.925, 155.413,  409, 'magamadar'),              -- Build 4714, no map
+(@ID+    , -8990.82, 849.174,  29.6206,  303.885,  0,   'mageportal'),             -- Build 4714, no map
+(@ID+    , 1087.37,  -502.999, -105.05,  290.503,  409, 'moltengiants'),           -- Build 4714, no map
+(@ID+    , 752.556,  -514.892, -214.873, 103.561,  409, 'moltenguild2'),           -- Build 4714, no map
+(@ID+    , 619.336,  -789.619, -208.185, 202.021,  409, 'moltenlavafall'),         -- Build 4714, no map
+(@ID+    , 603.728,  -1170.07, -196.476, 248.551,  409, 'moltenmount'),            -- Build 4714, no map
+(@ID+    , 2506.42,  762.703,  39.5605,  18.72,    129, 'murder'),                 -- Build 4714, no map
+(@ID+    , -158.441, 131.601,  -74.2552, 335,      43,  'naralex'),                -- Build 4714, no map
+(@ID+    , -11852,   3183,     23,       0,        0,   'Newport'),                -- Build 4714, no map, Ø
+(@ID+    , 1122.33,  -215.34,  -79.2644, 77.8499,  349, 'noxious'),                -- Build 4714, no map
+(@ID+    , -168.103, -170.139, -62.2933, 259.048,  249, 'onyrally'),               -- Build 4714, no map
+(@ID+    , -45.8955, -209.964, -86.3693, 344.581,  249, 'onyxialair'),             -- Build 4714, no map
+(@ID+    , -16.3442, -95.3066, -31.1741, 176.608,  249, 'onyxiapreinstance'),      -- Build 4714, no map
+(@ID+    , -12373,   199,      4,        0,        0,   'Orc_Camp'),               -- Build 4714, no map, Ø
+(@ID+    , 914.691,  -114.727, -61.8669, 223.875,  349, 'poisonfalls'),            -- Build 4714, no map
+(@ID+    , 112.182,  -185.626, -167.457, 163.395,  349, 'primordial'),             -- Build 4714, no map
+(@ID+    , 20.2366,  -237.602, -78.226,  339.435,  43,  'pythas'),                 -- Build 4714, no map
+(@ID+    , 739.95,   -807.686, -226.097, 350.071,  409, 'ragnaros'),               -- Build 4714, no map
+(@ID+    , 2117.92,  1899.71,  71.2216,  143.4,    47,  'razorcave'),              -- Build 4714, no map
+(@ID+    , 1942.27,  1544.23,  81.8049,  85.8,     47,  'razorinstance'),          -- Build 4714, no map
+(@ID+    , 963.957,  -69.922,  -61.9004, 73.1699,  349, 'razorlash'),              -- Build 4714, no map
+(@ID+    , 2478.58,  686.714,  54.1965,  234,      129, 'razorparty'),             -- Build 4714, no map
+(@ID+    , 2089.79,  1759.07,  78.503,   217.695,  47,  'razorupper'),             -- Build 4714, no map
+(@ID+    , 1796.72,  1218.32,  18.1631,  94.1848,  189, 'scarlet forlorn'),        -- Build 4714, no map
+(@ID+    , 853.179,  1322.04,  18.6715,  359.46,   189, 'scarletcathedral'),       -- Build 4714, no map
+(@ID+    , 1759.21,  1117.14,  7.49028,  129.735,  189, 'scarletchamber'),         -- Build 4714, no map
+(@ID+    , 1939.33,  -431.974, 18.008,   350.235,  189, 'scarletchampion'),        -- Build 4714, no map
+(@ID+    , 891.571,  1392.97,  18.6778,  13.5,     189, 'scarletchapel'),          -- Build 4714, no map
+(@ID+    , 1826.42,  -428.567, 13.1005,  357.21,   189, 'scarletcrusader'),        -- Build 4714, no map
+(@ID+    , 1747.48,  -364.851, 7.91357,  277.38,   189, 'scarletfootman'),         -- Build 4714, no map
+(@ID+    , 222.624,  -328.366, 18.5347,  249.705,  189, 'scarletgallery'),         -- Build 4714, no map
+(@ID+    , 1797.77,  1417.62,  14.1412,  14.355,   189, 'scarlethonor'),           -- Build 4714, no map
+(@ID+    , 200.856,  -243.358, 19.201,   182.655,  189, 'scarlethuntsman'),        -- Build 4714, no map
+(@ID+    , 1687.29,  1052.52,  18.6773,  306.63,   189, 'scarletinstance'),        -- Build 4714, no map
+(@ID+    , 253.392,  -208.235, 18.6773,  6.84002,  189, 'scarletlibrary'),         -- Build 4714, no map
+(@ID+    , 139.383,  -252.935, 19.201,   195.255,  189, 'scarletloksey'),          -- Build 4714, no map
+(@ID+    , 1151.03,  1400.84,  32.5278,  354.15,   189, 'scarletmograine'),        -- Build 4714, no map
+(@ID+    , 1643.77,  -337.614, 18.6778,  269.145,  189, 'scarletraining'),         -- Build 4714, no map
+(@ID+    , 1624.67,  -324.861, 18.0074,  277.605,  189, 'scarletwar'),             -- Build 4714, no map
+(@ID+    , 1191.67,  1398.64,  29.0097,  333,      189, 'scarletwhitemane'),       -- Build 4714, no map
+(@ID+    , -46.4436, 207.023,  -96.1442, 24.5449,  43,  'screaming'),              -- Build 4714, no map
+(@ID+    , -110.196, 2158.51,  155.678,  339.55,   33,  'shadowboss'),             -- Build 4714, no map
+(@ID+    , -252.756, 2247.93,  100.892,  195.691,  33,  'shadowchapel'),           -- Build 4714, no map
+(@ID+    , -225.914, 2186.08,  79.7653,  28.0563,  33,  'shadowcourt'),            -- Build 4714, no map
+(@ID+    , -255.822, 2298.27,  74.9993,  260.797,  33,  'shadowdining'),           -- Build 4714, no map
+(@ID+    , -240.503, 2159.73,  90.6239,  75.13,    33,  'shadowdoor'),             -- Build 4714, no map
+(@ID+    , -228.191, 2111.41,  76.8904,  70,       33,  'shadowentrance'),         -- Build 4714, no map
+(@ID+    , -253.611, 2125.43,  81.1796,  351.34,   33,  'shadowjail'),             -- Build 4714, no map
+(@ID+    , -179.409, 2232.8,   76.2413,  107.078,  33,  'shadowkitchen'),          -- Build 4714, no map
+(@ID+    , 541,      1587,     159,      0,        0,   'SPCrypt'),                -- Build 4714, no map, Ø
+(@ID+    , 2534.05,  964.935,  49.4901,  3.24004,  129, 'spiral'),                 -- Build 4714, no map
+(@ID+    , -10698,   284,      31,       0,        0,   'tear'),                   -- Build 4714, no map, Ø
+(@ID+    , 636.773,  -285.32,  -52.9057, 102.555,  349, 'vyletongue'),             -- Build 4714, no map
+(@ID+    , -147.78,  68.4835,  -106.109, 211.61,   43,  'wailcrag'),               -- Build 4714, no map
+(@ID+    , 82.3619,  215.424,  -93.1483, 25.5349,  43,  'waildream'),              -- Build 4714, no map
+(@ID+    , 694.622,  -103.917, -56.0687, 188.28,   349, 'wickedgrotto'),           -- Build 4714, no map
+(@ID+    , -169.353, -98.1102, -66.7224, 346.655,  43,  'winding'),                -- Build 4714, no map
+(@ID+    , -153.017, 2177.18,  128.448,  287.932,  33,  'wizardroom'),             -- Build 4714, no map
+(@ID+    , -80.8079, -257.355, -170.42,  200.25,   349, 'zaemar'),                 -- Build 4714, no map
+(@ID+    , 89.9565,  -179.953, -168.564, 163.44,   349, 'zaetar'),                 -- Build 4714, no map
+(@ID+    , -11718.8, 3585.14,  99,       0,        0,   'ZulRatta'),               -- Build 4714, no map, Ø
 (@ID+    , -9794.83, 2082.87,  13.2301,  0,        0,   'Greatsea'),               -- Build 4714, no map, Ø
 (@ID+    , -1053.02, -3663.2,  23.8776,  68.0268,  1,   'ratinn');                 -- Build 4714, no map
