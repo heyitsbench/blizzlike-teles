@@ -106,6 +106,7 @@ INSERT INTO `game_tele` (`id`, `position_x`, `position_y`, `position_z`, `orient
 (@ID+    , -376.689, 158.496,  -55.5706, 150.24,   48,  'blackpool'),              -- Build 4714, no map
 (@ID+    , -736.607, 18.4317,  -30.3908, 251.13,   48,  'blackruins'),             -- Build 4714, no map
 (@ID+    , 244.541,  72.6848,  25.7196,  51.425,   450, 'bravehall'),              -- Build 4714, no map
+(@ID+    , -7806.59, -7980.9,  -3957.89, 8.95292,  1,   'brokenpillar'),           -- Build 4714, additional value: 79.8167
 (@ID+    , 2536.55,  860.271,  50.0837,  253.53,   129, 'caller'),                 -- Build 4714, no map
 (@ID+    , 739.457,  68.5399,  -86.6019, 126.72,   349, 'celebras'),               -- Build 4714, no map
 (@ID+    , -538.024, 174.099,  -193.732, 87.57,    90,  'cleanzone'),              -- Build 4714, no map
@@ -125,10 +126,12 @@ INSERT INTO `game_tele` (`id`, `position_x`, `position_y`, `position_z`, `orient
 (@ID+    , -4394,    3229,     14,       0,        1,   'feralasi1'),              -- Build 4714, no map, Ø
 (@ID+    , -5956,    3026,     12,       0,        1,   'feralasi2'),              -- Build 4714, no map, Ø
 (@ID+    , 1016.83,  -458.52,  -43.4737, 0,        349, 'foulspore'),              -- Build 4714, no map
+(@ID+    , -1156.79, 1900.2,   88.8571,  261.09,   1,   'ghost'),                  -- Build 4714
 (@ID+    , 144.457,  -320.01,  -174.423, 153.36,   349, 'gizlock'),                -- Build 4714, no map
 (@ID+    , -9794.83, 2082.87,  13.2301,  0,        0,   'Greatsea'),               -- Build 4714, no map, Ø
 (@ID+    , 755.078,  -617.696, -32.9223, 65.88,    349, 'grotto'),                 -- Build 4714, no map
 (@ID+    , -11758,   3379,     64,       0,        0,   'Island2'),                -- Build 4714, no map, Ø
+(@ID+    , -10947,   -1968,    117,      0,        0,   'Karazhan'),               -- Build 4714, Ø
 (@ID+    , 722.801,  -328.71,  -51.3067, 198.45,   349, 'khan'),                   -- Build 4714, no map
 (@ID+    , -5627,    -3780,    372,      0,        0,   'lmexc1'),                 -- Build 4714, no map, Ø
 (@ID+    , -5876,    -2907,    395,      0,        0,   'LMS1'),                   -- Build 4714, no map, Ø
@@ -201,6 +204,7 @@ INSERT INTO `game_tele` (`id`, `position_x`, `position_y`, `position_z`, `orient
 (@ID+    , -8137.54, 1526.96,  6.73688,  182.113,  1,   'AhnQiraj'),               -- Build 5496
 (@ID+    , -8437.77, 1518.99,  31.9071,  157.617,  509, 'AhnQiraj20'),             -- Build 5496
 (@ID+    , -8199.51, 2055.76,  129.19,   74.975,   531, 'AhnQiraj40'),             -- Build 5496
+(@ID+    , -11133,   -2021.36, 47.4563,  38.3056,  0,   'Karazhan'),               -- Build 5496
 -- Build 7318 (2.2.2)
 (@ID+    , -2129.91, 8592.24,  17.4091,  352.379,  530, 'aerislanding'),           -- Build 7318
 (@ID+    , -2888.98, 3978.3,   11.2136,  191.234,  530, 'Allerian'),               -- Build 7318
@@ -235,7 +239,13 @@ INSERT INTO `game_tele` (`id`, `position_x`, `position_y`, `position_z`, `orient
 (@ID+    , 532.58,   691.023,  775.461,  269.164,  601, 'Azjoluppercity'),         -- Build 8962
 (@ID+    , 129.007,  -5915.6,  6.45012,  26.1095,  571, 'Baelguns'),               -- Build 8962
 (@ID+    , 1507.05,  -5319.67, 196.627,  98.3351,  571, 'Baleheim'),               -- Build 8962
+(@ID+    , 717,      1289,     300,      0,        616, 'eyeofeternity'),          -- Build 8962, Ø
+(@ID+    , 1871.95,  853.876,  176.666,  193.737,  604, 'gundrak'),                -- Build 8962
+(@ID+    , 1580.57,  310.216,  98.1569,  177.248,  603, 'UlduarRaid'),             -- Build 8962
 -- Build 9722 (3.1.0)
+(@ID+    , 728.055,  1329.03,  275,      0,        616, 'eyeofeternity'),          -- Build 9722, Ø
+(@ID+    , 1863.13,  853.712,  176.671,  175.284,  604, 'gundrak'),                -- Build 9722
+(@ID+    , 1498.81,  -24.1936, 421.053,  0.383788, 603, 'UlduarRaid'),             -- Build 9722
 -- Build 10048 (3.2.0)
 -- (@ID+    , ,         ,         ,         ,         ,    'Argentdungeon'),          -- Build 10048, inaccessible
 -- (@ID+    , ,         ,         ,         ,         ,    'Argentraid'),             -- Build 10048, inaccessible
@@ -364,7 +374,6 @@ INSERT INTO `game_tele` (`id`, `position_x`, `position_y`, `position_z`, `orient
 (@ID+    , -3488.06, -12358.9, 16.4663,  3.25635,  530, 'bristlebend'),            -- 
 (@ID+    , -4581.12, -11690.9, 22.4921,  105.676,  530, 'bristlelimb'),            -- 
 (@ID+    , -1692.08, 3970.72,  66.5429,  100.334,  530, 'BrokenHills'),            -- 
-(@ID+    , -7806.59, -7980.9,  -3957.89, 8.95292,  1,   'brokenpillar'),           -- Build 4714, additional value: 79.8167
 (@ID+    , -1784.46, 3060.89,  12.5221,  43.6503,  1,   'BrokenSpear'),            -- 
 (@ID+    , 3114.13,  67.2918,  80.8071,  180.96,   571, 'bronzeshrine'),           -- 
 (@ID+    , 1689.12,  -4411.89, 21.7077,  0,        1,   'broomstick'),             -- 
@@ -710,8 +719,6 @@ INSERT INTO `game_tele` (`id`, `position_x`, `position_y`, `position_z`, `orient
 (@ID+    , 6773.05,  -4668.75, 723.773,  0.241039, 1,   'everobservatory'),        -- 
 (@ID+    , 10349.5,  -6361.38, 34.2017,  109.737,  530, 'Eversong'),               -- 
 (@ID+    , -4071.28, -12045.4, 3.87927,  89.9476,  530, 'Exodar'),                 -- 
-(@ID+    , 717,      1289,     300,      0,        616, 'eyeofeternity'),          -- Build 8962, Ø
-(@ID+    , 728.055,  1329.03,  275,      0,        616, 'eyeofeternity'),          -- Build 9722, Ø
 (@ID+    , 8744.95,  -6667.17, 68.6069,  189.011,  530, 'Fairbreeze'),             -- 
 (@ID+    , -2045.05, -2155.22, 20.2217,  0,        0,   'faldircave'),             -- 
 (@ID+    , -1969.95, -1655.1,  46.4326,  195.817,  0,   'faldirtunnel'),           -- 
@@ -806,7 +813,6 @@ INSERT INTO `game_tele` (`id`, `position_x`, `position_y`, `position_z`, `orient
 (@ID+    , -4599.22, -12844.5, 7.06909,  287.925,  530, 'geezlescamp'),            -- 
 (@ID+    , -1238.1,  2936.5,   73.9843,  230.175,  1,   'gelk'),                   -- 
 (@ID+    , -2260.87, 2633.53,  61.3879,  0,        1,   'Gelkisvillage'),          -- 
-(@ID+    , -1156.79, 1900.2,   88.8571,  261.09,   1,   'ghost'),                  -- Build 4714
 (@ID+    , -1233.89, 1747.42,  90.2735,  79.4248,  1,   'ghosthut'),               -- 
 (@ID+    , 7103.76,  -6764.4,  38.3329,  231.238,  530, 'Ghostlands'),             -- 
 (@ID+    , -1156.79, 1900.2,   88.8571,  261.09,   1,   'GhostWalker'),            -- 
@@ -885,8 +891,6 @@ INSERT INTO `game_tele` (`id`, `position_x`, `position_y`, `position_z`, `orient
 (@ID+    , 261.333,  -265.385, 144.841,  15.6788,  0,   'growlesscave'),           -- 
 (@ID+    , 63.179,   48.5857,  -4.85808, 82.5555,  565, 'GruulsLair'),             -- 
 (@ID+    , -11051.5, -1988.02, 231.245,  298.544,  0,   'gryphonjump'),            -- 
-(@ID+    , 1871.95,  853.876,  176.666,  193.737,  604, 'gundrak'),                -- Build 8962
-(@ID+    , 1863.13,  853.712,  176.671,  175.284,  604, 'gundrak'),                -- Build 9722
 (@ID+    , 2590.76,  -21.0626, 23.1306,  0,        0,   'gunther'),                -- 
 (@ID+    , -13284.1, 102.464,  24.035,   51.3038,  0,   'gurubashiarena'),         -- 
 (@ID+    , -1609,    7975.61,  32.2222,  318.986,  530, 'Halaa'),                  -- 
@@ -1028,8 +1032,6 @@ INSERT INTO `game_tele` (`id`, `position_x`, `position_y`, `position_z`, `orient
 (@ID+    , -12138.9, -36.108,  -3.2982,  0,        0,   'Kalai'),                  -- 
 (@ID+    , 7428,     -521,     12,       0,        1,   'kalidartest'),            -- 
 (@ID+    , 777.56,   -2967.63, 9.96872,  76.0591,  571, 'Kamagua'),                -- 
-(@ID+    , -10947,   -1968,    117,      0,        0,   'Karazhan'),               -- Build 4714, Ø
-(@ID+    , -11133,   -2021.36, 47.4563,  38.3056,  0,   'Karazhan'),               -- Build 5496
 (@ID+    , -11087.3, -1977.47, 49.6135,  51.8056,  532, 'Karazhaninstance'),       -- 
 (@ID+    , -6706.69, -2195.74, 250.462,  0,        0,   'Kargath'),                -- 
 (@ID+    , 2443.21,  -3492.49, 96.2096,  217.66,   1,   'kargathia'),              -- 
@@ -1857,8 +1859,6 @@ INSERT INTO `game_tele` (`id`, `position_x`, `position_y`, `position_z`, `orient
 (@ID+    , 1153.25,  810.721,  195.835,  269.607,  599, 'Ulduar77'),               -- 
 (@ID+    , 1331.75,  262.151,  53.3984,  269.335,  602, 'ulduar80'),               -- 
 (@ID+    , -862.212, -149.173, 458.891,  358.898,  603, 'ulduarexterior'),         -- 
-(@ID+    , 1580.57,  310.216,  98.1569,  177.248,  603, 'UlduarRaid'),             -- Build 8962
-(@ID+    , 1498.81,  -24.1936, 421.053,  0.383788, 603, 'UlduarRaid'),             -- Build 9722
 (@ID+    , -9623.6,  -2798.47, 9.44883,  166.627,  1,   'uldum'),                  -- 
 (@ID+    , -13744.3, -22.7244, 44.964,   0,        0,   'Unbagwacave'),            -- 
 (@ID+    , 1893.04,  238.585,  58,       0,        0,   'undercity'),              -- 
