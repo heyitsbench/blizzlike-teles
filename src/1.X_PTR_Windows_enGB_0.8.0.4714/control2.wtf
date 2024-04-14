@@ -1,0 +1,3 @@
+bind BUTTON2 +cameraOrAction
+bind BUTTON1 +turnOrSelect
+

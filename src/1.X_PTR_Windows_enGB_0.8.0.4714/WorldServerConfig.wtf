@@ -1,0 +1,3 @@
+SET LogPDB "0"
+SET CombatDebugOutput "0"
+SET BaseRoundTimePlayer "1000"
