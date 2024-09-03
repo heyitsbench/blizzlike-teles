@@ -126,7 +126,7 @@ INSERT INTO `game_tele` (`id`, `position_x`, `position_y`, `position_z`, `orient
     (@ID+    , -7714.9    , -1477.55, 140.817   , 56.4273  , 0   , 'blackfortress'         ),
     (@ID+    , 579.536    , -282.595, -43.1028  , 347.445  , 0   , 'blackheros'            ),
     (@ID+    , -7527.65   , -1226.44, 285.732   , 306.92   , 0   , 'blackinstance'         ),
-    (@ID+    , NULL       , NULL    , NULL      , 0        , 1   , 'blackinterior'         ), -- X, Y, Z, Ø
+    (@ID+    , 4159.38    , 917.45  , -17.0268  , 0        , 1   , 'blackinterior'         ), -- X, Y, Z, Ø
     (@ID+    , -819.566   , -211.133, -25.9026  , 282.135  , 48  , 'blacklair'             ), -- Map
     (@ID+    , -818.747   , -107.808, -25.87    , 245.415  , 48  , 'blackmoon'             ), -- Map
     (@ID+    , -376.689   , 158.496 , -55.5706  , 150.24   , 48  , 'blackpool'             ), -- Map
