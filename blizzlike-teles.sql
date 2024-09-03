@@ -803,7 +803,7 @@ INSERT INTO `game_tele` (`id`, `position_x`, `position_y`, `position_z`, `orient
     (@ID+    , -5212.47   , -3105.25, 303.171   , 0        , 0   , 'lochfish'              ), -- Ø
     (@ID+    , -5868.3    , -3695.66, 362.306   , 0        , 0   , 'lochhorde'             ), -- Ø
     (@ID+    , -5345      , -2858   , 340       , 0        , 0   , 'Lochmodan'             ), -- Ø
-    (@ID+    , -5414      , -2881   , NULL      , 0        , 0   , 'LochTest'              ), -- Z, Ø, Map
+    (@ID+    , -5414      , -2881   , 344       , 0        , 0   , 'LochTest'              ), -- Z, Ø, Map
     (@ID+    , -4713.1    , -960.234, 505.288   , 210.061  , 0   , 'longberry'             ),
     (@ID+    , -9737.03   , 1039.77 , 35.7958   , 0        , 0   , 'longshore'             ), -- Ø
     (@ID+    , 6278.38    , 556.427 , 3.6361    , 0        , 1   , 'longwash'              ), -- Ø
